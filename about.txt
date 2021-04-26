@@ -1,1 +1,1 @@
-This is crating new about.txt file on exising reporisory 
+This is a leasson for creating of new about.txt file on exising repository.
