@@ -1,2 +1,3 @@
 # basic-github
-This is exercise of Myanmar Data Science 
+Lesason folder for Basic Githu (MDS)
+## About This Course
